@@ -112,5 +112,6 @@ int main()
 }
 
 /*
-• Derived types must be completely substitutable for their base types.
+ï¿½ Derived types must be completely substitutable for their base types.
+* https://stackoverflow.com/questions/51883363/is-this-correct-understanding-of-liskov-substitution-principle
 */
